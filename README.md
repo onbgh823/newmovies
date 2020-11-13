@@ -1,2 +1,2 @@
 # newmovies
-https://onbgh823.github.io/newmovies/.
+https://onbgh823.github.io/newmovies/
